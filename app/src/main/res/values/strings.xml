@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuessMyDrawing</string>
+    <string name="evaluate_drawing_button">Evaluate</string>
+</resources>
